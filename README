@@ -1,0 +1,4 @@
+OVERVIEW: main.py ID Generator
+USAGE: main.py [options]
+OPTIONS:
+  -n, --no-window               do not show window
